@@ -3,11 +3,20 @@
   color: #721c24; /* Dark red text color */
   padding: 10px;
   margin: 10px;
-  border: 1px double #f5c6cb; /* Border color */
+  border: 1px dotted #f5c6cb; /* Border color */
   border-radius: 5px; /* Rounded corners */
 }
 
 /* Additional styling */
 .Notifications p {
   margin: 0; /* Remove default paragraph margin */
+  padding: 0 0 10px;
 }
+.Notifications ul #blue{
+  color: blue;
+}
+ .Notifications ul {
+  color: red;
+  margin-left: 40px;
+
+ }
