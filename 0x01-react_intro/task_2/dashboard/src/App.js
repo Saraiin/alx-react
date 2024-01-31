@@ -17,17 +17,13 @@ function App() {
         <form>
 
           {/* Email */}
-          <div>
-            <label htmlFor="email">Email: </label>
-              <input type="email" id="email" />            
-          </div>
+          <label htmlFor="email">Email: </label>
+          <input type="email" id="email" />      
 
-          {/* Password Input */}
-          <div>
-            <label htmlFor="password">Password: </label>
-            <input type="password" id="password" />
-          </div>
-
+          {/* Password Input */}          
+          <label htmlFor="password">Password: </label>
+          <input type="password" id="password" />
+          
           {/* OK Button */}
           <button>OK</button>
         </form>
