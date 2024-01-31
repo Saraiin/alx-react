@@ -5,10 +5,10 @@ function App() {
   return (
 	  <div className="App">
 		<header className="App-header">
-        <img src={require('./Holberton_Logo.png')} alt="Holberton Logo" className="App-logo" />
-        <h1>School Dashboard</h1>
-      </header>
-      <div className="App-body">
+        		<img src={require('./Holberton_Logo.jpg')} alt="Holberton Logo" className="App-logo" />
+        		<h1>School Dashboard</h1>
+     		 </header>
+      	<div className="App-body">
         <p>Login to access the full dashboard</p>
       </div>
       <footer className="App-footer">
