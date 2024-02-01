@@ -10,3 +10,7 @@ ul li[data-priority='default'] {
 ul li[data-priority='urgent'] {
 	color: red;
 }
+
+ul {
+  margin-left:40px;
+}
