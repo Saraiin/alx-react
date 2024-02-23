@@ -3,6 +3,9 @@ ______<br>
 :memo::<br>
 react props<br>
 react component <br>
+
 react inline styling 
 
 React Immutable
+
+👩🏻‍💻
